@@ -1,6 +1,6 @@
-# San Vicente Barangay Management System (BIS)
+# San Vicente Barangay Information System (BIS)
 
-The **San Vicente Barangay Management System** is a web-based platform designed to simplify and digitalize the core operations of Barangay San Vicente, Alaminos City, Pangasinan. It provides an efficient, secure, and user-friendly way for residents and barangay officials to manage essential services and information online.
+The **San Vicente Barangay Information System** is a web-based platform designed to simplify and digitalize the core operations of Barangay San Vicente, Alaminos City, Pangasinan. It provides an efficient, secure, and user-friendly way for residents and barangay officials to manage essential services and information online.
 
 ---
 
