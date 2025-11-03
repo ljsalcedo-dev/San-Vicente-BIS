@@ -15,9 +15,9 @@ The **San Vicente Barangay Information System** is a web-based platform designed
 - Post and view **barangay announcements**, **news**, and **upcoming events**.
 - Ensure residents are always informed and updated.
 
-### ⚖️ Barangay Ordinances
-- Post, view, and manage **barangay ordinances**.
-- Display ordinance **status**, **description**, and **other relevant information**.
+### ⚖️ Barangay Executive Orders, Ordinances, & Resolutions
+- Post, view, and manage **barangay executive orders, ordinances, and resolutions**.
+- Display their **status**, **description**, and **other relevant information**.
 - Promotes transparency and accountability in local governance.
 
 ---
